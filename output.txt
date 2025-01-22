@@ -1,0 +1,2 @@
+Best Hyperparameters: η+=1.2, η-=0.5, hidden_nodes=128 with accuracy=0.8523
+Best Hyperparameters: η+=1.3, η-=0.5, hidden_nodes=128 with accuracy=0.8877
